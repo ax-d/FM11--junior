@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after{box-sizing:border-box;}
+
+/* start page__header  */
+/* end page__header */
+/* start page__content */
+/* end page__content */
+/* start page__footer */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+/* end page__footer */
+
+
+/* start page__header  */
+/* end page__header */
+/* start page__content */
+/* start article - hero */
+/* end article - hero  */
+/* start article - grow */
+/* end article - grow */
+/* start article - flowing */
+/* end article - flowing  */
+/* start article - users  */
+/* end article - users */
+/* start article - build  */
+/* end article - build */
+/* end page__content */
+/* start page__footer */
+/* end page__footer */
