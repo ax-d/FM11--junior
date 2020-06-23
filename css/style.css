@@ -1,14 +1,48 @@
 *,
 *::before,
-*::after{box-sizing:border-box;}
+*::after {
+  box-sizing: border-box;
+}
+
+/* ## Colors
+
+### Primary
+
+- Dark Blue (intro and email sign up background): hsl(217, 28%, 15%)
+- Dark Blue (main background): hsl(218, 28%, 13%)
+- Dark Blue (footer background): hsl(216, 53%, 9%)
+- Dark Blue (testimonials background): hsl(219, 30%, 18%)
+
+### Accent
+
+- Cyan (inside call-to-action gradient): hsl(176, 68%, 64%)
+- Blue (inside call-to-action gradient): hsl(198, 60%, 50%)
+
+### Neutral
+
+- White: hsl(0, 0%, 100%) */
+
+.page {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-size: .875rem;
+}
+
 
 /* start page__header  */
 /* end page__header */
 /* start page__content */
 /* end page__content */
 /* start page__footer */
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 /* end page__footer */
 
 
