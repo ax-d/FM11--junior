@@ -511,8 +511,6 @@ img {
 @media only screen and (min-width: 1000px) {
 
   /* start page__header  */
-  .page {}
-
   .wrapper {
     max-width: 1440px;
     padding: 74px 77px 0 77px;
