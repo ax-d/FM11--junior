@@ -585,6 +585,7 @@ img {
   .access-card {
     flex: 0 1 500px;
     max-width: unset;
+    margin: 0 0 71px 0;
 
   }
 
