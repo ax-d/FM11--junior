@@ -776,6 +776,7 @@ img {
     font-size: .875rem;
     margin-left: 31px;
     padding: 15px 25px;
+    width: unset;
   }
 
   /* end article - cta */
@@ -838,17 +839,3 @@ img {
 }
 
 
-/* start page__content */
-/* start article - hero */
-/* end article - hero  */
-/* start article - grow */
-/* end article - grow */
-/* start article - flowing */
-/* end article - flowing  */
-/* start article - users  */
-/* end article - users */
-/* start article - build  */
-/* end article - build */
-/* end page__content */
-/* start page__footer */
-/* end page__footer */
